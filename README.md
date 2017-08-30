@@ -1,11 +1,8 @@
 # #4 User Interface II
-Agenda for
+Agenda d. 31-08-2017
 
-GUI: Spring 2:
--	Building Spring web apps
--	Rendering Web Views 
-
-
+Thymeleaf læsning som passer til det vi laver idag:
+* [Thymeleaf: Standard expression syntax](http://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html#standard-expression-syntax)
 
 # Literature
 * [html](https://www.w3schools.com/html/)
