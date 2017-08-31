@@ -3,6 +3,9 @@
 I dag skal vi primært arbejde med _View_.    
 Dvs. html filen og Css filen.
 
+### Snippets med basic code som vi skal bruge idag
+* [snippets]()
+
 ## Html og CSS
 <!-- ## Thymeleaf læsning som passer til det vi laver idag:
 * [Thymeleaf: Standard expression syntax](http://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html#standard-expression-syntax)
