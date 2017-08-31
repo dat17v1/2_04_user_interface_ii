@@ -4,7 +4,7 @@ I dag skal vi primært arbejde med _View_.
 Dvs. html filen og Css filen.
 
 ### Snippets med basic code som vi skal bruge idag
-* [snippets]()
+* [snippets](https://github.com/dat17v1/2_04_user_interface_ii/tree/master/snippets)
 
 ## Html og CSS
 <!-- ## Thymeleaf læsning som passer til det vi laver idag:
